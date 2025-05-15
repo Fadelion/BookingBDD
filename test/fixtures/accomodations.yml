@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numb_beds: 1
+  price_night: 9.99
+  description: MyText
+  wifi: false
+  welcome_word: MyText
+  city: one
+  user: one
+
+two:
+  numb_beds: 1
+  price_night: 9.99
+  description: MyText
+  wifi: false
+  welcome_word: MyText
+  city: two
+  user: two
