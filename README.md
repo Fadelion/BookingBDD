@@ -96,5 +96,4 @@ rails test
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
-
-Développé dans le cadre d'un projet d'apprentissage de la programmation orientée objet en Ruby.
+Développé dans le cadre d'un projet d'apprentissage de la programmation web avec Ruby on Rails
